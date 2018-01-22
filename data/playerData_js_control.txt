@@ -1,0 +1,2 @@
+"AdaptationID"	"GameID"	"ScenarioID"	"Rating"	"PlayCount"	"KFactor"	"Uncertainty"	"LastPlayed"
+"SkillDifficultyElo"	"TileZero"	"EvolvingAI"	"1.0996"	"50"	"0.2"	"0"	"TileZero"	"2018-01-17T12:12:13"

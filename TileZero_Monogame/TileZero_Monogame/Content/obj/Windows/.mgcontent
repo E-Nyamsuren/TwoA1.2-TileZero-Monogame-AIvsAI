@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/OU/RAGE/Portal/WP1 Methodological alignment/Architecture/monogame/TileZero_Monogame/TileZero_Monogame/Content/00_15_50.jpg</File>
+    <File>C:/OU/RAGE/Portal/WP1 Methodological alignment/Architecture/monogame/TileZero_Monogame/TileZero_Monogame/Content/01_15_50.jpg</File>
+    <File>C:/OU/RAGE/Portal/WP1 Methodological alignment/Architecture/monogame/TileZero_Monogame/TileZero_Monogame/Content/02_15_50.jpg</File>
+    <File>C:/OU/RAGE/Portal/WP1 Methodological alignment/Architecture/monogame/TileZero_Monogame/TileZero_Monogame/Content/03_15_50.jpg</File>
+    <File>C:/OU/RAGE/Portal/WP1 Methodological alignment/Architecture/monogame/TileZero_Monogame/TileZero_Monogame/Content/04_15_50.jpg</File>
+    <File>C:/OU/RAGE/Portal/WP1 Methodological alignment/Architecture/monogame/TileZero_Monogame/TileZero_Monogame/Content/05_15_50.jpg</File>
+    <File>C:/OU/RAGE/Portal/WP1 Methodological alignment/Architecture/monogame/TileZero_Monogame/TileZero_Monogame/Content/10_15_50.jpg</File>
+    <File>C:/OU/RAGE/Portal/WP1 Methodological alignment/Architecture/monogame/TileZero_Monogame/TileZero_Monogame/Content/11_15_50.jpg</File>
+    <File>C:/OU/RAGE/Portal/WP1 Methodological alignment/Architecture/monogame/TileZero_Monogame/TileZero_Monogame/Content/12_15_50.jpg</File>
+    <File>C:/OU/RAGE/Portal/WP1 Methodological alignment/Architecture/monogame/TileZero_Monogame/TileZero_Monogame/Content/13_15_50.jpg</File>
+    <File>C:/OU/RAGE/Portal/WP1 Methodological alignment/Architecture/monogame/TileZero_Monogame/TileZero_Monogame/Content/14_15_50.jpg</File>
+    <File>C:/OU/RAGE/Portal/WP1 Methodological alignment/Architecture/monogame/TileZero_Monogame/TileZero_Monogame/Content/15_15_50.jpg</File>
+    <File>C:/OU/RAGE/Portal/WP1 Methodological alignment/Architecture/monogame/TileZero_Monogame/TileZero_Monogame/Content/20_15_50.jpg</File>
+    <File>C:/OU/RAGE/Portal/WP1 Methodological alignment/Architecture/monogame/TileZero_Monogame/TileZero_Monogame/Content/21_15_50.jpg</File>
+    <File>C:/OU/RAGE/Portal/WP1 Methodological alignment/Architecture/monogame/TileZero_Monogame/TileZero_Monogame/Content/22_15_50.jpg</File>
+    <File>C:/OU/RAGE/Portal/WP1 Methodological alignment/Architecture/monogame/TileZero_Monogame/TileZero_Monogame/Content/23_15_50.jpg</File>
+    <File>C:/OU/RAGE/Portal/WP1 Methodological alignment/Architecture/monogame/TileZero_Monogame/TileZero_Monogame/Content/24_15_50.jpg</File>
+    <File>C:/OU/RAGE/Portal/WP1 Methodological alignment/Architecture/monogame/TileZero_Monogame/TileZero_Monogame/Content/25_15_50.jpg</File>
+    <File>C:/OU/RAGE/Portal/WP1 Methodological alignment/Architecture/monogame/TileZero_Monogame/TileZero_Monogame/Content/30_15_50.jpg</File>
+    <File>C:/OU/RAGE/Portal/WP1 Methodological alignment/Architecture/monogame/TileZero_Monogame/TileZero_Monogame/Content/31_15_50.jpg</File>
+    <File>C:/OU/RAGE/Portal/WP1 Methodological alignment/Architecture/monogame/TileZero_Monogame/TileZero_Monogame/Content/32_15_50.jpg</File>
+    <File>C:/OU/RAGE/Portal/WP1 Methodological alignment/Architecture/monogame/TileZero_Monogame/TileZero_Monogame/Content/33_15_50.jpg</File>
+    <File>C:/OU/RAGE/Portal/WP1 Methodological alignment/Architecture/monogame/TileZero_Monogame/TileZero_Monogame/Content/34_15_50.jpg</File>
+    <File>C:/OU/RAGE/Portal/WP1 Methodological alignment/Architecture/monogame/TileZero_Monogame/TileZero_Monogame/Content/35_15_50.jpg</File>
+    <File>C:/OU/RAGE/Portal/WP1 Methodological alignment/Architecture/monogame/TileZero_Monogame/TileZero_Monogame/Content/40_15_50.jpg</File>
+    <File>C:/OU/RAGE/Portal/WP1 Methodological alignment/Architecture/monogame/TileZero_Monogame/TileZero_Monogame/Content/41_15_50.jpg</File>
+    <File>C:/OU/RAGE/Portal/WP1 Methodological alignment/Architecture/monogame/TileZero_Monogame/TileZero_Monogame/Content/42_15_50.jpg</File>
+    <File>C:/OU/RAGE/Portal/WP1 Methodological alignment/Architecture/monogame/TileZero_Monogame/TileZero_Monogame/Content/43_15_50.jpg</File>
+    <File>C:/OU/RAGE/Portal/WP1 Methodological alignment/Architecture/monogame/TileZero_Monogame/TileZero_Monogame/Content/44_15_50.jpg</File>
+    <File>C:/OU/RAGE/Portal/WP1 Methodological alignment/Architecture/monogame/TileZero_Monogame/TileZero_Monogame/Content/45_15_50.jpg</File>
+    <File>C:/OU/RAGE/Portal/WP1 Methodological alignment/Architecture/monogame/TileZero_Monogame/TileZero_Monogame/Content/50_15_50.jpg</File>
+    <File>C:/OU/RAGE/Portal/WP1 Methodological alignment/Architecture/monogame/TileZero_Monogame/TileZero_Monogame/Content/51_15_50.jpg</File>
+    <File>C:/OU/RAGE/Portal/WP1 Methodological alignment/Architecture/monogame/TileZero_Monogame/TileZero_Monogame/Content/52_15_50.jpg</File>
+    <File>C:/OU/RAGE/Portal/WP1 Methodological alignment/Architecture/monogame/TileZero_Monogame/TileZero_Monogame/Content/53_15_50.jpg</File>
+    <File>C:/OU/RAGE/Portal/WP1 Methodological alignment/Architecture/monogame/TileZero_Monogame/TileZero_Monogame/Content/54_15_50.jpg</File>
+    <File>C:/OU/RAGE/Portal/WP1 Methodological alignment/Architecture/monogame/TileZero_Monogame/TileZero_Monogame/Content/55_15_50.jpg</File>
+    <File>C:/OU/RAGE/Portal/WP1 Methodological alignment/Architecture/monogame/TileZero_Monogame/TileZero_Monogame/Content/cell.png</File>
+    <File>C:/OU/RAGE/Portal/WP1 Methodological alignment/Architecture/monogame/TileZero_Monogame/TileZero_Monogame/Content/cursor.png</File>
+  </SourceFiles>
+</SourceFileCollection>

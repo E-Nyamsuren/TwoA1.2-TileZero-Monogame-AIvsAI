@@ -1,0 +1,5 @@
+"AdaptationID"	"GameID"	"ScenarioID"	"Rating"	"PlayCount"	"KFactor"	"Uncertainty"	"LastPlayed"
+"SkillDifficultyElo"	"TileZero"	"Very Easy AI"	"-0.5205"	"2"	"0.2"	"0.95"	"2018-01-17T12:12:49"
+"SkillDifficultyElo"	"TileZero"	"Easy AI"	"-0.2981"	"5"	"0.2"	"0.875"	"2018-01-17T12:12:49"
+"SkillDifficultyElo"	"TileZero"	"Hard AI"	"1.0429"	"29"	"0.2"	"0.275"	"2018-01-17T12:12:49"
+"SkillDifficultyElo"	"TileZero"	"Very Hard AI"	"1.7769"	"14"	"0.2"	"0.65"	"2018-01-17T12:12:49"
